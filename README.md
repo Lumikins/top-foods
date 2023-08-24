@@ -1,8 +1,5 @@
-# React + Vite
+# Top-Foods
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Food ordering app landing page created with Vite and React. For demo purposes only, as part of a portfolio.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+If you wish to use it, just download the repo, unzip and open the project in your code editor, run "npx vite" to preview the site in development mode
